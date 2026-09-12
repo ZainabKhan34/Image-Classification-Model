@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Image Classification_Model .ipynb
 
-# **Image Classification Model By Maham Imtiaz**
+# **Image Classification Model By Zainab Khan**
 
 ## **Step No: 1 Importing Some Important Libraries**
 """
