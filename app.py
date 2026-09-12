@@ -20,8 +20,8 @@ st.write("Add only  airplane,  automobile,  bird,  cat,  deer,  dog,  frog,  hor
 # Sidebar info
 st.sidebar.header("About the Project")
 st.sidebar.info("""
-**Created by:** Maham Imtiaz 
-- [LinkedIn](https://www.linkedin.com/in/mahamimtiaz46/)   
+**Created by:** Zainab Khan 
+- [LinkedIn](https://www.linkedin.com/in/zainabkhan/)   
 This project classifies images into 10 CIFAR-10 categories.
 
 """)
